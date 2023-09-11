@@ -4,7 +4,7 @@ public static void main(String args[])
 {
 int factorial=1;
 int x=1;
-int n=10;
+int n=11;
 while(x<=n)
 {
 factorial=factorial*n;
