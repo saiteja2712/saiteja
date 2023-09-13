@@ -2,7 +2,7 @@ class Main
 {
 public static void main(String args[])
 {
-int n=28;
+int n=27;
 if(n%5==0)
 {
 if(n%3==0)
